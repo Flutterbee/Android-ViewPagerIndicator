@@ -241,7 +241,7 @@ public class TabPageIndicator extends HorizontalScrollView implements
 	public class TabView extends RelativeLayout {
 		private int mIndex;
 		private static final int TEXTCOLOR_DESELECTED = 0xff757575;
-		private static final int TEXTCOLOR_SELECTED = 0xfff47c22;
+		private static final int TEXTCOLOR_SELECTED = 0xff80ca00;
 		private TextView mTextView;
 		private View mUnderlineView;
 
